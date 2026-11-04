@@ -1,1 +1,7 @@
-# qrue-solver
+# QRUE SOLVER - Egyptian Hacker
+
+تطبيق أندرويد مخصص لحل منصة Krio بكفاءة ودقة عالية.
+
+## المميزات
+* واجهة أداء سريعة وثابتة.
+* تصميم مخصص باسم QRUE SOLVER.
