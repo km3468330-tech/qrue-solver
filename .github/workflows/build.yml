@@ -29,6 +29,8 @@ jobs:
         pip install buildozer kivy
 
     - name: Build with Buildozer
+      env:
+        PACKAGES_PATH: ~/.buildozer/android/packages
       run: |
         buildozer -v android debug
 
