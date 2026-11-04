@@ -11,6 +11,11 @@ fullscreen = 0
 icon.filename = icon.png
 android.permissions = INTERNET
 
+android.api = 31
+android.min_api = 21
+android.sdk = 33
+android.accept_sdk_license = True
+
 [buildozer]
 log_level = 2
 warn_on_root = 1
